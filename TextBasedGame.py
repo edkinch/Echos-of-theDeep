@@ -1,7 +1,3 @@
-# Erica Kinch
-# TextBasedGame.py
-# SNHU IT 140 – Project Two: Text-Based Adventure Game
-
 DANGER_ROOM = 'Control Center'
 REQUIRED_ITEMS = 6
 
